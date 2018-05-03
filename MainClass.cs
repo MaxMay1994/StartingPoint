@@ -14,7 +14,8 @@ namespace StartingPoint
 		static void Main(string[] args)
 		{
 
-            Console.WriteLine("Hello World");
+
+            Console.WriteLine("Hello Wordl");
 
 			// Create movies
 			Movie movCinderella = new Movie("Cinderella", PriceCodes.Childrens);

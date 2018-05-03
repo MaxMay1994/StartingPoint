@@ -1,4 +1,0 @@
-H:\11FI4\GitHubRepositories\StartingPoint\TestStartingPoint\bin\Debug\netstandard1.4\TestStartingPoint.deps.json
-H:\11FI4\GitHubRepositories\StartingPoint\TestStartingPoint\bin\Debug\netstandard1.4\TestStartingPoint.dll
-H:\11FI4\GitHubRepositories\StartingPoint\TestStartingPoint\obj\Debug\netstandard1.4\TestStartingPoint.csproj.CoreCompileInputs.cache
-H:\11FI4\GitHubRepositories\StartingPoint\TestStartingPoint\obj\Debug\netstandard1.4\TestStartingPoint.AssemblyInfo.cs
